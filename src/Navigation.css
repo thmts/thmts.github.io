@@ -1,0 +1,13 @@
+
+nav {
+    background-color: black;
+}
+
+nav label {
+    color: red;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
